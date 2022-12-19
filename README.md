@@ -13,7 +13,7 @@ Instructions on running the program
     - kernSize is the kernel size - e.g. 3 for 3x3, 5 for 5x5, etc.. It must always be positive and
     odd.
     - param is the additional numerical parameter that the algorithm needs - e.g. the scaling value
-    k for unsharp masking or sigma for the gaussian. If your algorithm doesn't need any additional parameters once it knows the kernel size, just pass some         dummy value here (e.g. 0)
+    k for unsharp masking
     - inFileName is the name of the input image file
     - outFileName is the name of the output image file
 ```
