@@ -1,6 +1,6 @@
 An image processing program that can sharpen or remove noise from a given message
 
-Requires Nvdia's Warp API
+Requires Nvidia's Warp API
 ```text
     pip3 install warp
 ```
